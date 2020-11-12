@@ -3,5 +3,6 @@ public class Day3_Main {
         System.out.println("Hello Git");
         //It is a nice day
         //Good morning
+        System.out.println("Good morning");
     }
 }
